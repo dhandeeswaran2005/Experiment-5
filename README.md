@@ -1,6 +1,5 @@
 # Experiment-5
-# Name:RAGAVAN M
-# Register Number:212224230216
+
 ## AIM:Write a python program for Binary Search and inspect for failures. 
 
 # ALGORITHM
